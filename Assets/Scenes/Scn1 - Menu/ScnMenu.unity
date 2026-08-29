@@ -1401,6 +1401,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MainMenuController
   mainPageCambas: {fileID: 1628503070}
   creditsCambas: {fileID: 2098065847}
+  nextSceneName: ScnIntro
 --- !u!1 &1649520703
 GameObject:
   m_ObjectHideFlags: 0
@@ -1791,6 +1792,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MainMenuController
   mainPageCambas: {fileID: 1628503070}
   creditsCambas: {fileID: 2098065847}
+  nextSceneName: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
