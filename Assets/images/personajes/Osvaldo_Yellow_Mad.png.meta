@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 48c53ed363c203042a62108c5555bf55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6158369218704201663
+    second: Osvaldo_Yellow_Mad_0
+  - first:
+      213: 1255999346674126902
+    second: Osvaldo_Yellow_Mad_1
+  - first:
+      213: 4111439863538787838
+    second: Osvaldo_Yellow_Mad_2
+  - first:
+      213: -550917876089336450
+    second: Osvaldo_Yellow_Mad_3
+  - first:
+      213: -2475217217131070856
+    second: Osvaldo_Yellow_Mad_4
+  - first:
+      213: 4474438200041161997
+    second: Osvaldo_Yellow_Mad_5
+  - first:
+      213: 5082137781667988057
+    second: Osvaldo_Yellow_Mad_6
+  - first:
+      213: 8994883346565690303
+    second: Osvaldo_Yellow_Mad_7
+  - first:
+      213: 23893550576933250
+    second: Osvaldo_Yellow_Mad_8
+  - first:
+      213: 2388656870886859826
+    second: Osvaldo_Yellow_Mad_9
+  - first:
+      213: 5618388946217397165
+    second: Osvaldo_Yellow_Mad_10
+  - first:
+      213: -7046171709816360840
+    second: Osvaldo_Yellow_Mad_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Osvaldo_Yellow_Mad_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 145
+        width: 1200
+        height: 2117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7509c0d2ce67550800000000000000
+      internalID: 6158369218704201663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Yellow_Mad_1
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1742
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63052a050c43e6110800000000000000
+      internalID: 1255999346674126902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Yellow_Mad_2
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1737
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef52c95c5c4ce0930800000000000000
+      internalID: 4111439863538787838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Yellow_Mad_3
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1718
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d484f4c1fba58f0800000000000000
+      internalID: -550917876089336450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Yellow_Mad_4
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1564
+        width: 123
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ab8f62e0346add0800000000000000
+      internalID: -2475217217131070856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Yellow_Mad_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1525
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0544ea16d5681e30800000000000000
+      internalID: 4474438200041161997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Yellow_Mad_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1419
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95289e7d261678640800000000000000
+      internalID: 5082137781667988057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Yellow_Mad_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1188
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3ff1c2fbe34dc70800000000000000
+      internalID: 8994883346565690303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Yellow_Mad_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1176
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2899f82ce03e45000800000000000000
+      internalID: 23893550576933250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Yellow_Mad_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1139
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234e187b4c6362120800000000000000
+      internalID: 2388656870886859826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Yellow_Mad_10
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1040
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabe445aaf688fd40800000000000000
+      internalID: 5618388946217397165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Yellow_Mad_11
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 902
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8703df18928f63e90800000000000000
+      internalID: -7046171709816360840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Osvaldo_Yellow_Mad_0: 6158369218704201663
+      Osvaldo_Yellow_Mad_1: 1255999346674126902
+      Osvaldo_Yellow_Mad_10: 5618388946217397165
+      Osvaldo_Yellow_Mad_11: -7046171709816360840
+      Osvaldo_Yellow_Mad_2: 4111439863538787838
+      Osvaldo_Yellow_Mad_3: -550917876089336450
+      Osvaldo_Yellow_Mad_4: -2475217217131070856
+      Osvaldo_Yellow_Mad_5: 4474438200041161997
+      Osvaldo_Yellow_Mad_6: 5082137781667988057
+      Osvaldo_Yellow_Mad_7: 8994883346565690303
+      Osvaldo_Yellow_Mad_8: 23893550576933250
+      Osvaldo_Yellow_Mad_9: 2388656870886859826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

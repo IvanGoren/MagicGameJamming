@@ -9,12 +9,12 @@ public class TypewriterEffect : MonoBehaviour
 {
     [Header("UI Components")]
     [SerializeField] private TMP_Text textComponent;
-    [SerializeField] private GameObject nextPromptIndicator; // Arrow/prompt object
+    [SerializeField] private TMP_Text nextPromptIndicator; // Arrow/prompt object
 
     [Header("Settings")]
     [SerializeField] private float timePerCharacter = 0.05f;
     [SerializeField] private string nextSceneName; // Name of the scene to load
-
+    [SerializeField] private float fadeDuration = 2.0f;
     private string fullText;
     private Coroutine typingCoroutine;
     private bool isTyping = false;
@@ -22,7 +22,6 @@ public class TypewriterEffect : MonoBehaviour
 
     private void Start()
     {
-        if (nextPromptIndicator != null) nextPromptIndicator.SetActive(false);
         TriggerText(textComponent.text);
     }
 
@@ -30,7 +29,6 @@ public class TypewriterEffect : MonoBehaviour
     {
         if (Mouse.current.leftButton.wasPressedThisFrame)
         {
-            Debug.Log("click");
             HandlePlayerClick();
         }
     }
@@ -38,7 +36,6 @@ public class TypewriterEffect : MonoBehaviour
     {
         fullText = textToType;
         textCompleted = false;
-        if (nextPromptIndicator != null) nextPromptIndicator.SetActive(false);
 
         typingCoroutine = StartCoroutine(TypeText());
     }
@@ -60,15 +57,8 @@ public class TypewriterEffect : MonoBehaviour
 
     private void HandlePlayerClick()
     {
-        // Feature 2: Early Skip Button logic
-        if (isTyping)
-        {
-            StopCoroutine(typingCoroutine);
-            textComponent.maxVisibleCharacters = fullText.Length; // Show all text instantly
-            CompleteTextFlow();
-        }
         // Feature 1: Jump to next scene logic
-        else if (textCompleted)
+     if (textCompleted)
         {
             if (!string.IsNullOrEmpty(nextSceneName))
             {
@@ -84,12 +74,27 @@ public class TypewriterEffect : MonoBehaviour
     private void CompleteTextFlow()
     {
         isTyping = false;
-        textCompleted = true;
-
         // Show the visual indicator (e.g., flashing arrow or "Click to Continue" text)
-        if (nextPromptIndicator != null)
+        StartCoroutine(FadeInRoutine());
+    }
+
+        private IEnumerator FadeInRoutine()
+    {
+        float currentTime = 0f;
+        Color originalColor = nextPromptIndicator.color;
+
+        while (currentTime < fadeDuration)
         {
-            nextPromptIndicator.SetActive(true);
+            currentTime += Time.deltaTime;
+            
+            // Calculate progress between 0 and 1
+            float alpha = Mathf.Lerp(0f, 1f, currentTime / fadeDuration);
+            
+            // Apply new alpha to text color
+            nextPromptIndicator.color = new Color(originalColor.r, originalColor.g, originalColor.b, alpha);
+            
+            yield return null; // Wait for next frame
         }
+        textCompleted = true;
     }
 }

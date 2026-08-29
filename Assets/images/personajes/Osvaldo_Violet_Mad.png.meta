@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: dda2c3a4cd1a45549ab7378d0f329373
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4294153572479340000
+    second: Osvaldo_Violet_Mad_0
+  - first:
+      213: -7585940021204023511
+    second: Osvaldo_Violet_Mad_1
+  - first:
+      213: -5070341969342171812
+    second: Osvaldo_Violet_Mad_2
+  - first:
+      213: 1724121049886931370
+    second: Osvaldo_Violet_Mad_3
+  - first:
+      213: 5338272700014602664
+    second: Osvaldo_Violet_Mad_4
+  - first:
+      213: -6265711101356039990
+    second: Osvaldo_Violet_Mad_5
+  - first:
+      213: 1453604028988221141
+    second: Osvaldo_Violet_Mad_6
+  - first:
+      213: 4493812891801876605
+    second: Osvaldo_Violet_Mad_7
+  - first:
+      213: 8014273764685606545
+    second: Osvaldo_Violet_Mad_8
+  - first:
+      213: -8310332479336914820
+    second: Osvaldo_Violet_Mad_9
+  - first:
+      213: -1512039860782437355
+    second: Osvaldo_Violet_Mad_10
+  - first:
+      213: -4551063800214997949
+    second: Osvaldo_Violet_Mad_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Osvaldo_Violet_Mad_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 145
+        width: 1200
+        height: 2117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022f465c31a1864c0800000000000000
+      internalID: -4294153572479340000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Violet_Mad_1
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1742
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92707b42eb359b690800000000000000
+      internalID: -7585940021204023511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Violet_Mad_2
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1737
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55fa9bb7d682a9b0800000000000000
+      internalID: -5070341969342171812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Violet_Mad_3
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1718
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9b848c5fe4de710800000000000000
+      internalID: 1724121049886931370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Violet_Mad_4
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1564
+        width: 123
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9298ebcba551a40800000000000000
+      internalID: 5338272700014602664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Violet_Mad_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1525
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0a37253f8bb09a0800000000000000
+      internalID: -6265711101356039990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Violet_Mad_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1419
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d66befa92d3c2410800000000000000
+      internalID: 1453604028988221141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Violet_Mad_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1188
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78fbee040b3d5e30800000000000000
+      internalID: 4493812891801876605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Violet_Mad_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1176
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e61dc078b683f60800000000000000
+      internalID: 8014273764685606545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Violet_Mad_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1139
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c706bbbd3a4cbac80800000000000000
+      internalID: -8310332479336914820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Violet_Mad_10
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1040
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ce4dbf1c7240be0800000000000000
+      internalID: -1512039860782437355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Violet_Mad_11
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 902
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344bb06169f57d0c0800000000000000
+      internalID: -4551063800214997949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Osvaldo_Violet_Mad_0: -4294153572479340000
+      Osvaldo_Violet_Mad_1: -7585940021204023511
+      Osvaldo_Violet_Mad_10: -1512039860782437355
+      Osvaldo_Violet_Mad_11: -4551063800214997949
+      Osvaldo_Violet_Mad_2: -5070341969342171812
+      Osvaldo_Violet_Mad_3: 1724121049886931370
+      Osvaldo_Violet_Mad_4: 5338272700014602664
+      Osvaldo_Violet_Mad_5: -6265711101356039990
+      Osvaldo_Violet_Mad_6: 1453604028988221141
+      Osvaldo_Violet_Mad_7: 4493812891801876605
+      Osvaldo_Violet_Mad_8: 8014273764685606545
+      Osvaldo_Violet_Mad_9: -8310332479336914820
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
