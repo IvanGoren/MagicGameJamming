@@ -735,7 +735,7 @@ MonoBehaviour:
   textComponent: {fileID: 1692333580}
   nextPromptIndicator: {fileID: 1227470724}
   timePerCharacter: 0.05
-  nextSceneName: ScnGame
+  nextSceneName: ScnTutorial
   fadeDuration: 2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

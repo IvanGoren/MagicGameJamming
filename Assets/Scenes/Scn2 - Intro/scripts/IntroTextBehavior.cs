@@ -17,7 +17,6 @@ public class TypewriterEffect : MonoBehaviour
     [SerializeField] private float fadeDuration = 2.0f;
     private string fullText;
     private Coroutine typingCoroutine;
-    private bool isTyping = false;
     private bool textCompleted = false;
 
     private void Start()
@@ -42,7 +41,6 @@ public class TypewriterEffect : MonoBehaviour
 
     private IEnumerator TypeText()
     {
-        isTyping = true;
         textComponent.text = fullText;
         textComponent.maxVisibleCharacters = 0;
 
@@ -73,7 +71,6 @@ public class TypewriterEffect : MonoBehaviour
 
     private void CompleteTextFlow()
     {
-        isTyping = false;
         // Show the visual indicator (e.g., flashing arrow or "Click to Continue" text)
         StartCoroutine(FadeInRoutine());
     }

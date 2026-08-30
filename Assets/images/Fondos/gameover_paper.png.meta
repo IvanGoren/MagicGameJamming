@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 268025e873d411c489f4108be778e1e8
+guid: 7bb858fbf9f85a5499ec85b061e8a8aa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6908441309848964039
-    second: background_ph_0
+      213: 4189926198987929752
+    second: gameover_paper_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: background_ph_0
+      name: gameover_paper_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1080
+        width: 535
+        height: 689
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7cb8e21d4c6bfdf50800000000000000
-      internalID: 6908441309848964039
+      spriteID: 89837c5cdab952a30800000000000000
+      internalID: 4189926198987929752
       vertices: []
       indices: 
       edges: []
@@ -135,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      background_ph_0: 6908441309848964039
+      gameover_paper_0: 4189926198987929752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

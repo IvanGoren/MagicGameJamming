@@ -1,4 +1,5 @@
-csharpusing UnityEngine;
+using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 
 public class TutorialController : MonoBehaviour
@@ -15,7 +16,7 @@ public class TutorialController : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if ((Mouse.current.leftButton.wasPressedThisFrame))
         {
             AdvanceTutorial();
         }
