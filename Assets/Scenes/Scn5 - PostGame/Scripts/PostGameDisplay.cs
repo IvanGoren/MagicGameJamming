@@ -11,7 +11,7 @@ public class PostGameDisplay : MonoBehaviour
 
     private void Start()
     {
-        GameManager gameManager = FindFirstObjectByType<GameManager>();
+        GameManager gameManager = FindAnyObjectByType<GameManager>();
 
         if (gameManager == null)
             return;
