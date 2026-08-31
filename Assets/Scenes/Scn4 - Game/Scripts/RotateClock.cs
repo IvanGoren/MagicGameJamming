@@ -3,7 +3,7 @@ using UnityEngine;
 public class Rotator : MonoBehaviour
 {
     [Tooltip("Degrees to rotate per second. Use 6 for realistic ticking.")]
-    public float speed = 0.8f; 
+    public float speed = 0.6666667f;
 
     void Update()
     {

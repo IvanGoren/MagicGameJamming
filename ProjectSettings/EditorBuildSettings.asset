@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Scn2 - Intro/ScnIntro.unity
     guid: 3b72de174bd74a24d955d6fc839123e3
   - enabled: 1
+    path: Assets/Scenes/Scn3 - Tutorial/ScnTutorial.unity
+    guid: ef71f5ad72f1d4240a739d8ac03b1fc2
+  - enabled: 1
     path: Assets/Scenes/Scn4 - Game/ScnGame.unity
     guid: 17bffe9b67ada284995f357d1f7051dd
   - enabled: 1
