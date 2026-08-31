@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 11da99fbb3ceb2b4fb61620c157deebc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1696654457941795975
+    second: Osvaldo_Cosme_Mad_0
+  - first:
+      213: -7947724266978110751
+    second: Osvaldo_Cosme_Mad_1
+  - first:
+      213: 3666410446075791017
+    second: Osvaldo_Cosme_Mad_2
+  - first:
+      213: -8944773198233450114
+    second: Osvaldo_Cosme_Mad_3
+  - first:
+      213: 5134194148683325430
+    second: Osvaldo_Cosme_Mad_4
+  - first:
+      213: 752238852100568408
+    second: Osvaldo_Cosme_Mad_5
+  - first:
+      213: 4901935071644195637
+    second: Osvaldo_Cosme_Mad_6
+  - first:
+      213: 3757805828623325120
+    second: Osvaldo_Cosme_Mad_7
+  - first:
+      213: -7209767683130042558
+    second: Osvaldo_Cosme_Mad_8
+  - first:
+      213: 4231160662307257605
+    second: Osvaldo_Cosme_Mad_9
+  - first:
+      213: 1032790877064620839
+    second: Osvaldo_Cosme_Mad_10
+  - first:
+      213: 87061332399378554
+    second: Osvaldo_Cosme_Mad_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Osvaldo_Cosme_Mad_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 145
+        width: 1200
+        height: 2117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bdbcf72c54478e0800000000000000
+      internalID: -1696654457941795975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Cosme_Mad_1
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1742
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2940653e204b190800000000000000
+      internalID: -7947724266978110751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Cosme_Mad_2
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1737
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6012f00e4b1e230800000000000000
+      internalID: 3666410446075791017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Cosme_Mad_3
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1718
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e794cdaea28cdd380800000000000000
+      internalID: -8944773198233450114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Cosme_Mad_4
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1564
+        width: 123
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff98284062504740800000000000000
+      internalID: 5134194148683325430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Cosme_Mad_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1525
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855b3bd104d707a00800000000000000
+      internalID: 752238852100568408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Cosme_Mad_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1419
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b9161e9fb270440800000000000000
+      internalID: 4901935071644195637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Cosme_Mad_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1188
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c75cfdcd78662430800000000000000
+      internalID: 3757805828623325120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Cosme_Mad_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1176
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24751fdbd72c1fb90800000000000000
+      internalID: -7209767683130042558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Cosme_Mad_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1139
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d3e68643a18ba30800000000000000
+      internalID: 4231160662307257605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Cosme_Mad_10
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1040
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b63baa4d5355e00800000000000000
+      internalID: 1032790877064620839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osvaldo_Cosme_Mad_11
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 902
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70565f02dd453100800000000000000
+      internalID: 87061332399378554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Osvaldo_Cosme_Mad_0: -1696654457941795975
+      Osvaldo_Cosme_Mad_1: -7947724266978110751
+      Osvaldo_Cosme_Mad_10: 1032790877064620839
+      Osvaldo_Cosme_Mad_11: 87061332399378554
+      Osvaldo_Cosme_Mad_2: 3666410446075791017
+      Osvaldo_Cosme_Mad_3: -8944773198233450114
+      Osvaldo_Cosme_Mad_4: 5134194148683325430
+      Osvaldo_Cosme_Mad_5: 752238852100568408
+      Osvaldo_Cosme_Mad_6: 4901935071644195637
+      Osvaldo_Cosme_Mad_7: 3757805828623325120
+      Osvaldo_Cosme_Mad_8: -7209767683130042558
+      Osvaldo_Cosme_Mad_9: 4231160662307257605
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed1ca084458ce384fb2260d6f9658a50, type: 3}
+  m_Name: OY
+  m_EditorClassIdentifier: Assembly-CSharp::CustomerData
+  customerName: OY
+  idleSprite: {fileID: 1281340395561450145, guid: 776f38e39574dd94dae2284483831fed, type: 3}
+  perfectSprite: {fileID: 2710384264340830706, guid: ecab879df42d3054786e166e65f6bf57, type: 3}
+  successfulSprite: {fileID: 1281340395561450145, guid: 776f38e39574dd94dae2284483831fed, type: 3}
+  failedSprite: {fileID: 6158369218704201663, guid: 124ec3a58651f404fb5c44a6423441ad, type: 3}
+  perfectSFX: {fileID: 8300000, guid: cba3e0f2a03b7f549b544a71382c2ac8, type: 3}
+  successfulSFX: {fileID: 8300000, guid: 67a14b1339e21a2419fd24d214768796, type: 3}
+  failedSFX: {fileID: 8300000, guid: a4e94158c36d6b941b0ba665918df111, type: 3}
+  potionDialogues:
+  - potion: {fileID: 11400000, guid: 42169d83a9cb76c46a1edd491ab5ca1c, type: 2}
+    requestText: Un Brebaje Motivador... por favoOoOoOOr...
+    perfectText: Excelente... es perfecta... para trabajaaaar...
+    successfulText: Graciaaaaas... es lo que necesitaba.... para poder trabajaaar...
+    failedText: "NoOoOo.... as\xED nOoOoO...."
+  - potion: {fileID: 11400000, guid: 8618e00730380af4ba4c4c2dbf9f9c2e, type: 2}
+    requestText: NecesitoOoooOo.... un Elixir Poderoso...
+    perfectText: "SsSssii... ahora podr\xE9 ayudar a Cosme OsvalditoOoOo..."
+    successfulText: "Esta bien... va a funcionar... lo s\xE9...."
+    failedText: NoOoOo.... no funcionaaa.... la mudanza...
+  - potion: {fileID: 11400000, guid: bfac514aa10448d4ca95d9d1c9418df0, type: 2}
+    requestText: "OoOoOohh... Loci\xF3n Carism\xE1tica... necesito..."
+    perfectText: "Sss\xED.... es justo lo que buscaba.... le agradezco...."
+    successfulText: "Hmmm.... puede funcionar... creo que est\xE1 bien..."
+    failedText: NoOoOo.... esto nOoOoO....
+  - potion: {fileID: 11400000, guid: e364d6f85b1d6514f8f6d7594cecc73d, type: 2}
+    requestText: El Destilado del Valor... eso... eso quieroOooOooo...
+    perfectText: QuieroOooOo.... Lo quieroOooO... mi tesorooOoOo...
+    successfulText: NoOoo es perfecto... pero es mi tesorooOoo...
+    failedText: NoOoOo.... mi tesorooOoOooo...

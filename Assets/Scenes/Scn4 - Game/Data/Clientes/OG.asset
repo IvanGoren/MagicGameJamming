@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed1ca084458ce384fb2260d6f9658a50, type: 3}
+  m_Name: OG
+  m_EditorClassIdentifier: Assembly-CSharp::CustomerData
+  customerName: OG
+  idleSprite: {fileID: 7366229536471127679, guid: 35ae431bfc70fa4448c30acb8c98224c, type: 3}
+  perfectSprite: {fileID: 8662628828982759207, guid: bfa389611c93e754fa4f1f9ac6cd585f, type: 3}
+  successfulSprite: {fileID: 7366229536471127679, guid: 35ae431bfc70fa4448c30acb8c98224c, type: 3}
+  failedSprite: {fileID: 8775871862010836907, guid: 1386534cac7462842ab268acd327e77c, type: 3}
+  perfectSFX: {fileID: 8300000, guid: 847df1b784997d149adde03084ed340a, type: 3}
+  successfulSFX: {fileID: 8300000, guid: 013ff45fe2f3f4a4faecc54b151fc1a1, type: 3}
+  failedSFX: {fileID: 8300000, guid: 2a8a445055452c940958e7a42222f3e6, type: 3}
+  potionDialogues:
+  - potion: {fileID: 11400000, guid: 42169d83a9cb76c46a1edd491ab5ca1c, type: 2}
+    requestText: "\xBFQu\xE9 necesito? Un Brebaje Motivador. Ahora."
+    perfectText: "\xA1Maravilloso! Verme reflejado en una poci\xF3n bien hecha me
+      motiva m\xE1s de lo esperado. "
+    successfulText: "Es suficiente. No es perfecta, pero para la perfecci\xF3n estoy
+      yo."
+    failedText: "\xBFEs acaso una broma? Al menos me motiva a no volver aqu\xED."
+  - potion: {fileID: 11400000, guid: 8618e00730380af4ba4c4c2dbf9f9c2e, type: 2}
+    requestText: Elixir Poderoso. No haga preguntas.
+    perfectText: "\xA1Magn\xEDfico! Ahora nadie me podr\xE1 ganar en el torneo de
+      pulseadas."
+    successfulText: "Est\xE1 bien. Es solo un peque\xF1o empuje. Total, todos saben
+      que soy el mago m\xE1s poderoso de aqu\xED."
+    failedText: "\xBFEs acaso una broma? Pff... igual ni que la necesitara."
+  - potion: {fileID: 11400000, guid: bfac514aa10448d4ca95d9d1c9418df0, type: 2}
+    requestText: "Loci\xF3n Carism\xE1tica. Y ap\xFArese, \xBFo acaso no sabe qui\xE9n
+      soy?"
+    perfectText: "\xA1Sublime! Es usted un comerciante de primer\xEDsima categor\xEDa.
+      Estoy en deuda con usted."
+    successfulText: Formidable trabajo. Tiene sus detalles, pero supongo que no todos
+      pueden ser magos tan extraordinarios como yo.
+    failedText: "\xBFQu\xE9 es esta aberraci\xF3n? Usted no puede entregarme una
+      loci\xF3n as\xED, sinverg\xFCenza."
+  - potion: {fileID: 11400000, guid: e364d6f85b1d6514f8f6d7594cecc73d, type: 2}
+    requestText: "Vengo por un Destilado del Valor. No es para m\xED, claro est\xE1.
+      Es... para un allegado."
+    perfectText: "Esto... \xA1Es magn\xEDfico! H\xE1game el favor de no mencionar
+      mi presencia aqu\xED."
+    successfulText: "Creo que funcionar\xE1. De todas formas, no creo que lo necesite."
+    failedText: "\xA1Diantres! \xBFC\xF3mo algo tan burdo podr\xE1 darme el coraje
+      que necesito? "

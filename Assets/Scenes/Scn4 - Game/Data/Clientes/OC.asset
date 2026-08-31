@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed1ca084458ce384fb2260d6f9658a50, type: 3}
+  m_Name: OC
+  m_EditorClassIdentifier: Assembly-CSharp::CustomerData
+  customerName: OC
+  idleSprite: {fileID: -8886398115878720704, guid: 5cfb57b61ac021e4e8d2d0b67ff6977d, type: 3}
+  perfectSprite: {fileID: -2438646704167754399, guid: f30e6115102767848aad8344b637e4f6, type: 3}
+  successfulSprite: {fileID: -8886398115878720704, guid: 5cfb57b61ac021e4e8d2d0b67ff6977d, type: 3}
+  failedSprite: {fileID: -1696654457941795975, guid: 98fc96eb06ae19e4897942f8d9c3bad4, type: 3}
+  perfectSFX: {fileID: 8300000, guid: 282c202088896fd4893f7b82c19ef4fe, type: 3}
+  successfulSFX: {fileID: 8300000, guid: 0b25444ba27c1824f88cbea1056396e0, type: 3}
+  failedSFX: {fileID: 8300000, guid: e7eec101a0470c742a3649023e85e3dd, type: 3}
+  potionDialogues:
+  - potion: {fileID: 11400000, guid: 42169d83a9cb76c46a1edd491ab5ca1c, type: 2}
+    requestText: "\xA1Buenas! Necesito un Brebaje Motivador para... motivarme."
+    perfectText: "\xA1Espl\xE9ndido! Ya sabe c\xF3mo es la cosa, a veces se necesita
+      un empujoncito para conquistar el mundo."
+    successfulText: "Muy bien, esto servir\xE1. Hasta los genios malvados necesitamos
+      motivaci\xF3n de vez en cuando... "
+    failedText: "\xBFQu\xE9 es esto? \xA1Esto no sirve! \xBFQue la devuelva? N-no,
+      no. Me la llevo igual... \xA1Pero me la llevo enojado!"
+  - potion: {fileID: 11400000, guid: 8618e00730380af4ba4c4c2dbf9f9c2e, type: 2}
+    requestText: "Necesito un Elixir Poderoso. \xBFPara qu\xE9? Para muchas cosas..."
+    perfectText: "\xA1Maravilloso! Ahora s\xED podre conquistar el mund-Digo, hacer
+      la mudanza."
+    successfulText: Hmm... bien. No es suficientemente poderosa... para ayudarme
+      con la mudanza. Pero funciona.
+    failedText: "\xBFQu\xE9 es esto? \xA1Esto no sirve! \xBFQue la devuelva? N-no,
+      no. Me la llevo igual... \xA1Pero me la llevo enojado!"
+  - potion: {fileID: 11400000, guid: bfac514aa10448d4ca95d9d1c9418df0, type: 2}
+    requestText: "Necesito una Loci\xF3n Carism\xE1tica. \xBFPara qu\xE9? No puedo
+      decirtelo, jeje..."
+    perfectText: "\xA1Excelente! Ahora s\xED podre conquistar el mund-\xA1Oh! Nada,
+      nada."
+    successfulText: "Hmm... bien. Creo que esto podr\xEDa funcionar en mis planes
+      malvad- Digo... mis planes totalmente normales."
+    failedText: "\xBFQu\xE9 es esto? \xA1Esto no sirve! \xBFQue la devuelva? N-no,
+      no. Me la llevo igual... \xA1Pero me la llevo enojado!"
+  - potion: {fileID: 11400000, guid: e364d6f85b1d6514f8f6d7594cecc73d, type: 2}
+    requestText: "Necesito un Destilado del Valor. \xBFPara qu\xE9? No puedo dec\xEDrtelo,
+      jeje..."
+    perfectText: "\xA1Estupendo! \xA1Ahora los fantasmas de mi pasado ya no podr\xE1n
+      conmigo! Jeje..."
+    successfulText: "Muy bien, creo que podr\xE9 enfrentarme a mi mayor enemigo con
+      este brebaje en mano."
+    failedText: "\xA1No! \xA1No, no, no! \xA1Esto no funciona as\xED! Los fantasmas
+      de mi pasado... me persiguen..."

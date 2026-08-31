@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed1ca084458ce384fb2260d6f9658a50, type: 3}
+  m_Name: MV
+  m_EditorClassIdentifier: Assembly-CSharp::CustomerData
+  customerName: MV
+  idleSprite: {fileID: -6909581368370701271, guid: 24a8850786ba0c54da10590b829792ec, type: 3}
+  perfectSprite: {fileID: -6909581368370701271, guid: 24a8850786ba0c54da10590b829792ec, type: 3}
+  successfulSprite: {fileID: -9114454347476129682, guid: d590a142c9cf1e04998d52ec8f5920d9, type: 3}
+  failedSprite: {fileID: -9114454347476129682, guid: d590a142c9cf1e04998d52ec8f5920d9, type: 3}
+  perfectSFX: {fileID: 8300000, guid: 7bb2eeea0d4bd524caa1f8cd6c4e727a, type: 3}
+  successfulSFX: {fileID: 8300000, guid: ab6a3c2f1564c12468ccbccb03e69e15, type: 3}
+  failedSFX: {fileID: 8300000, guid: 5b8bcdc91e01a2c439691faf453f1ba4, type: 3}
+  potionDialogues:
+  - potion: {fileID: 11400000, guid: 42169d83a9cb76c46a1edd491ab5ca1c, type: 2}
+    requestText: "Necesito un Brebaje Motivador. R\xE1pido."
+    perfectText: "Buen trabajo, plebeyo. Recordar\xE9 su esfuerzo para futuras ocasiones."
+    successfulText: "Bueno... podr\xEDa ser peor. Espero que mi presencia aqu\xED
+      te motive a hacerlo mejor la pr\xF3xima."
+    failedText: "\xA1Ugh! No, eso no me va a motivar. Qu\xE9datela, a ver si te motiva
+      a t\xED a trabajar mejor."
+  - potion: {fileID: 11400000, guid: 8618e00730380af4ba4c4c2dbf9f9c2e, type: 2}
+    requestText: "\xBFSabe usted lo que es un Elixir Poderoso? Si es as\xED, h\xE1game
+      uno."
+    perfectText: "\xA1Espl\xE9ndido! \xA1Con este Elixir podr\xE9 superar a todos
+      mis contrincantes en el torneo!"
+    successfulText: "S\xED, S\xED. Muy bien. No est\xE1 a mi nivel, pero le aplaudo
+      el intento."
+    failedText: "Hmph. Esa poci\xF3n no es lo que le ped\xED. Qu\xE9desela."
+  - potion: {fileID: 11400000, guid: bfac514aa10448d4ca95d9d1c9418df0, type: 2}
+    requestText: "Vengo por mi Loci\xF3n Carism\xE1tica de todos los viernes."
+    perfectText: "\xA1Excelente trabajo! Mi cutis se lo agradecer\xE1."
+    successfulText: "Hmm... creo que servir\xE1, pero el efecto no me va a durar
+      una semana. \xBFNo me estar\xE1 estafando, verdad?"
+    failedText: "\xA1No! Ni se le ocurra darme eso. Mire si mi cutis perfecto termina
+      arruinado por su culpa."
+  - potion: {fileID: 11400000, guid: e364d6f85b1d6514f8f6d7594cecc73d, type: 2}
+    requestText: Vengo buscando un Destilado del Valor.
+    perfectText: "Gran trabajo, empleado. Siga as\xED, y tal vez alg\xFAn d\xEDa
+      llegue a ser tan incre\xEDble como yo."
+    successfulText: "Bueno, si esto es lo mejor que puedes hacer, creo que no tengo
+      m\xE1s remedio que aceptarlo."
+    failedText: "Hmph. Esa poci\xF3n no es lo que le ped\xED. Hay que tener coraje
+      para osar vender algo tan... descuidado."

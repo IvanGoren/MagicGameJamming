@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed1ca084458ce384fb2260d6f9658a50, type: 3}
+  m_Name: MR
+  m_EditorClassIdentifier: Assembly-CSharp::CustomerData
+  customerName: MR
+  idleSprite: {fileID: -9114454347476129682, guid: d590a142c9cf1e04998d52ec8f5920d9, type: 3}
+  perfectSprite: {fileID: 3830839719238951795, guid: 7b1e6392efdf15649b205bd383897a02, type: 3}
+  successfulSprite: {fileID: -9114454347476129682, guid: d590a142c9cf1e04998d52ec8f5920d9, type: 3}
+  failedSprite: {fileID: -9114454347476129682, guid: d590a142c9cf1e04998d52ec8f5920d9, type: 3}
+  perfectSFX: {fileID: 8300000, guid: a9e8e224913313142abe3bb361a17923, type: 3}
+  successfulSFX: {fileID: 8300000, guid: c519115f6a24e6349893e3b15b5c45ac, type: 3}
+  failedSFX: {fileID: 8300000, guid: 06b3b6d2c79439c498bbda58601e2567, type: 3}
+  potionDialogues:
+  - potion: {fileID: 11400000, guid: 42169d83a9cb76c46a1edd491ab5ca1c, type: 2}
+    requestText: Buenas, un Brebaje Motivador por favor.
+    perfectText: "\xA1Maravilloso! A ver si esto me motiva un poco..."
+    successfulText: "Bueno... le falta un poco, \xBFverdad? Pero est\xE1 bien, lo
+      llevo igual."
+    failedText: No, disculpe... pero no puedo comprar eso...
+  - potion: {fileID: 11400000, guid: 8618e00730380af4ba4c4c2dbf9f9c2e, type: 2}
+    requestText: Hola... estoy buscando un Elixir Poderoso, por favor.
+    perfectText: "S\xED, es justo lo que necesitaba. Muchas gracias."
+    successfulText: "Ehh... est\xE1 bien. No se preocupe. Yo lo soluciono en casa.
+      Gracias por el intento."
+    failedText: No, disculpe... pero no puedo comprar eso...
+  - potion: {fileID: 11400000, guid: bfac514aa10448d4ca95d9d1c9418df0, type: 2}
+    requestText: "Buenas... de casualidad, \xBFvende Loci\xF3n Carism\xE1tica?"
+    perfectText: "\xA1Uy, que bien! Hace mucho que la buscaba... espero que me ayude
+      un poco con la timidez..."
+    successfulText: "Bueno... no es del todo lo que buscaba. Pero seguro funciona.
+      Y si no, tambi\xE9n esta bien. "
+    failedText: No, disculpe... pero no puedo comprar eso...
+  - potion: {fileID: 11400000, guid: e364d6f85b1d6514f8f6d7594cecc73d, type: 2}
+    requestText: Hola... ando buscando un Destilado del Valor...
+    perfectText: "\xA1S-s\xED! Justo eso, \xA1muchas gracias! E-espero poder dar
+      mi discurso bien ma\xF1ana..."
+    successfulText: "Esto... bueno. Est\xE1 bien. Ma\xF1ana tendr\xE9 que juntar
+      un poquito extra de valor por mi cuenta entonces."
+    failedText: No, disculpe... pero no puedo comprar eso...
