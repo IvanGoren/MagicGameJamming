@@ -884,14 +884,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Programacion: ViruFraud y AlvaRock
-
-    Ilustracion: Pau y Noe
-
-    Audio:
-    AlvaRock
-
-    Game Design: Todos'
+  m_text: "Viru: Programaci\xF3n, Game design\r\n\xC1lvaro: Programaci\xF3n, M\xFAsica,
+    Sound Design, Game Design\r\nNoe: Ilustraci\xF3n de Personajes y pociones, Game
+    Design\r\nPaulina: Ilustraci\xF3n de UI, Narrativa, Sound Design, Game Design"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9562a94464da7944a8048a4a2d6d1546, type: 2}
   m_sharedMaterial: {fileID: 6076693948036891006, guid: 9562a94464da7944a8048a4a2d6d1546, type: 2}
